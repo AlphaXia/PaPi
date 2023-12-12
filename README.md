@@ -30,7 +30,7 @@ We provide the following shell codes for PaPi running.
 **Getting started**
 
 - Create directory `./data` (if `./data` does not exist)
-- Download and unpack data in [data1](https://drive.google.com/drive/folders/1Y85bsTGS8ERO80Sai1da2dAzRUij3SYV?usp=sharing) to `./data`
+- Download and unpack data to `./data`
 - Create directory `./pmodel` (if `./pmodel` does not exist)
 - Download models in [pmodel1](https://drive.google.com/drive/folders/1wh0a2hZTa6Gg8hhqvEz3um6YTq0fr19g?usp=sharing) to `./pmodel`
 
